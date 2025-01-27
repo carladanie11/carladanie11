@@ -1,4 +1,4 @@
-# 👋 Hi! I'm [Carla]
+# 👋 Hi! I'm Carla
 
 🌟 **About Me:**  
 I'm a Data Scientist passionate about transforming data into strategic solutions.  
