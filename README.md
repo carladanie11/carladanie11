@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Carla
 
 🌟 **About Me:**  
-I'm a Data Scientist passionate about transforming data into strategic solutions.  
+Data Scientist passionate about transforming data into strategic solutions.  
 
 ---
 
@@ -11,21 +11,24 @@ I'm a Data Scientist passionate about transforming data into strategic solutions
 - Data cleaning, exploration, and transformation.  
 - Statistical modeling and advanced analysis.  
 
-🔹 **Programming:**  
-- **Languages:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL.  
-- **Machine Learning Frameworks:** TensorFlow, PyTorch, Hugging Face.  
+🔹 **Programming & Databases:**  
+- Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL), NoSQL (MongoDB, DynamoDB)  
 
-🔹 **Machine Learning:**  
-- Development of supervised and unsupervised models.  
-- Hyperparameter optimization and tuning.  
-- Model training and evaluation.  
+🔹 **Machine Learning & AI:**  
+- Supervised/Unsupervised Learning, Classification (Random Forest, XGBoost, Logistic Regression), Time Series Forecasting, NLP (BERT, GPT, Hugging Face), Deep Learning (TensorFlow, PyTorch). 
+
+🔹 **MLOps & Deployment:**  
+- FastAPI, Docker, Kubernetes, CI/CD, Model Monitoring, Git, ML Pipeline Automation.  
+
+🔹 **Cloud Platforms:**  
+- Google Cloud Platform (BigQuery, Vertex AI), Amazon Web Services (AWS).
 
 🔹 **Data Visualization:**  
-- Creation of interactive graphs and dashboards using Power BI, Tableau, and Matplotlib.  
+- Power BI, Tableau, Matplotlib, Seaborn, Plotly Dash, Streamlit.
 
-🔹 **Project Management:**  
-- Design of data-driven workflows.  
-- Interdisciplinary collaboration and problem-solving.  
+🔹 **Methodologies:**  
+- Agile/Scrum, Kanban, Statistical Analysis, A/B Testing.
+ 
 
 ---
 
